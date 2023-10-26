@@ -1,18 +1,15 @@
 # Software Engineering and DevOps-June 2023
 
-Основната цел на курса "Software Engineering and DevOps" беше да въведе ключовите термини и методологии за цялостно разбиране на софтуерното инженерство и DevOps. По време на курса разгледох методи и инструменти за работа в екипна среда, създаване, комбиниране и използване на програмен код от повече от един човек едновременно. Представиха се инструменти за създаване и управление на инфраструктура чрез програмен код и управление на цялостна система за автоматизирано провизиране на код и представянето му в готов вид на потребителите.
+The main objective of the Software Engineering and DevOps course is to introduce the key terms and methodologies for a comprehensive understanding of software engineering and DevOps. The course will explore methods and tools for working in a team environment, creating, combining and using software code by more than one person at a time. Tools for creating and managing infrastructure through program code and managing a complete system for automated provisioning of code and presenting it in a finished form to users will be presented.
 
-Умения, които придобих :
+Acquired skills : 
 
--Работа с Git и GitHub
+  - Working with Git and GitHub
 
--Използване на инструменти и методологии за екипна работа
+  - Using teamwork tools and methodologies
 
--Създаване и управление на Continuous Integration процес
+  - Creating and managing a Continuous Integration process
 
--Работа с CI/CD Pipelines
+  - Working with CI/CD Pipelines
 
--Създаване на условия за автоматизирано тестване
-
-
-Преподавател : Владимир Пасков
+   - Creating automated testing environments
